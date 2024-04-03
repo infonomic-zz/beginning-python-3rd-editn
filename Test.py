@@ -1,10 +1,13 @@
-# name = input("What is your name? ")
-# print("Hello, " + name + "!")
+# Input a list of student scores
+student_scores = input().split()
+for n in range(0, len(student_scores)):
+  student_scores[n] = int(student_scores[n])
 
-from turtle import *
+# Your code below this row 👇
+highest_score = 0
+for score in student_scores:
+  if score > highest_score:
+    highest_score = score
+    # print(highest_score)
 
-forward(100)
-left(120)
-forward(100)
-left(120)
-forward(100)
+print(f"The highest score in the class is: {highest_score}")

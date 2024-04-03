@@ -1,0 +1,75 @@
+LLM:
+https://www.youtube.com/@samwitteveenai
+https://www.youtube.com/watch?v=hfnxVlPGLZs&t=3s
+https://www.youtube.com/@stuffaboutstuff4045
+https://www.youtube.com/watch?v=2xxziIWmaSA
+https://python.langchain.com/docs/get_started/introduction#guides
+https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb
+https://www.reddit.com/r/ChatGPT/comments/15pcehp/privategpt_is_mind_blowing/?rdt=33684
+
+https://medium.com/@uppadhyayraj/using-retrieval-augmented-generation-rag-to-enhance-local-large-language-models-e81b156f1457
+
+https://github.com/emarco177/ice_breaker/tree/1-start-here
+
+https://nubela.co/proxycurl/docs?python#people-api-person-profile-endpoint
+
+
+https://play.vidyard.com/amhhdQAqP5YziLAhuhoJxM
+
+Learn Python
+https://www.youtube.com/watch?v=LzYNWme1W6Q
+
+PyCharm Tutorial | Full Course in 2 Hours
+https://www.youtube.com/watch?v=hc50ALh_x5g
+
+
+C:\Users\marc\AppData\Local\Temp\cuda
+
+
+Installed:
+     - Nsight Monitor
+Not Installed:
+     - Nsight for Visual Studio 2022
+       Reason: VS2022 was not found
+     - Nsight for Visual Studio 2019
+       Reason: VS2019 was not found
+     - Nsight for Visual Studio 2017
+       Reason: VS2017 was not found
+     - Integrated Graphics Frame Debugger and Profiler
+       Reason: see https://developer.nvidia.com/nsight-vstools
+     - Integrated CUDA Profilers
+       Reason: see https://developer.nvidia.com/nsight-vstools
+
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\bin\nvcc.exe
+
+D:\LLM\llama-cpp-python>echo %PATH%
+C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\marc\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\marc\AppData\Local\Programs\Python\Python312\;C:\Users\marc\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\marc\AppData\Local\Programs\Python\Python310\;C:\Users\marc\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\js8call\bin;C:\WSJT\wsjtx\bin;C:\Users\marc\AppData\Local\Programs\Microsoft VS Code\bin
+
+GPU 1
+
+	NVIDIA GeForce GTX 1050 Ti with Max-Q Design
+
+	Driver version:	31.0.15.5161
+	Driver date:	2/15/2024
+	DirectX version:	12 (FL 12.1)
+	Physical location:	PCI bus 1, device 0, function 0
+
+	Utilization	0%
+	Dedicated GPU memory	0.0/4.0 GB
+	Shared GPU memory	0.0/7.9 GB
+	GPU Memory	0.0/11.9 GB
+
+GPU 0
+
+	Intel(R) UHD Graphics 630
+
+	Driver version:	27.20.100.9664
+	Driver date:	6/1/2021
+	DirectX version:	12 (FL 12.1)
+	Physical location:	PCI bus 0, device 2, function 0
+
+	Utilization	2%
+	Dedicated GPU memory	0.0/4.0 GB
+	Shared GPU memory	0.6/7.9 GB
+	GPU Memory	0.6/7.9 GB
+
